@@ -10,6 +10,7 @@
         <div>
             <button type="submit" wire:model="cantidad" class="bg-green-500" text-white >Guardar</button>
         </div>
+        
 
 </form>
 
